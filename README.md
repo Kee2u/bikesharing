@@ -4,17 +4,17 @@
 The purpose of this analysis is to determine if a bike sharing program similar to the one in New York, is feasible in Des Moines. An analysis of the bikesharing program in New York was completed to present to a potential angel investor.
 
 ## Results 
- - Most bikers in New York rent their bikes for around 10 minutes
+ - Most bikers in New York rent their bikes for around 10 minutes. </br></br>
     <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Checkout%20Times%20for%20Users.png?raw=true">
- - The most popular trip duration for both male and female riders is 10 minutes. Male riders outnumber female riders by nearly three times.
+ - The most popular trip duration for both male and female riders is 10 minutes. Male riders outnumber female riders by nearly three times.</br></br>
     <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Checkout%20Times%20by%20Gender.png?raw=true">
- - The most popular times to rent a bike is from 8am to 9am and between 5pm and 7pm on weekdays. These hours suggest that most users use bikes to commute to and from work.
+ - The most popular times to rent a bike is from 8am to 9am and between 5pm and 7pm on weekdays. These hours suggest that most users use bikes to commute to and from work.</br></br>
    <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Trips%20by%20Weekday%20per%20Hour.png?raw=true">
- - This trend is the same for both men and women.
+ - This trend is the same for both men and women.</br></br>
    <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Trips%20by%20Gender%20(Weekday%20per%20Hour).png?raw=true">
- - There are more subscribers than customers and more male subscribers than female subscribers.
+ - There are more subscribers than customers and more male subscribers than female subscribers.</br></br>
    <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Trips%20by%20Gender%20by%20Weekday.png?raw=true">
- - The Starting and Ending location densities are similar which suggests that people return bikes to the same location.
+ - The Starting and Ending location densities are similar which suggests that people return bikes to the same location.</br></br>
    <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Top%20Starting%20Locations.png?raw=true">
    <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Top%20Ending%20Locations.png?raw=true">
 

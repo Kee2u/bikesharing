@@ -15,8 +15,7 @@ The purpose of this analysis is to determine if a bike sharing program similar t
  - There are more subscribers than customers and more male subscribers than female subscribers.</br></br>
    <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Trips%20by%20Gender%20by%20Weekday.png?raw=true">
  - The Starting and Ending location densities are similar which suggests that people return bikes to the same location.</br></br>
-   <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Top%20Starting%20Locations.png?raw=true">
-   <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Top%20Ending%20Locations.png?raw=true">
+   <img src = "https://github.com/Kee2u/bikesharing/blob/main/pictures/Starting%20and%20Ending%20Locations.png?raw=true">
 
 
 [Click here for a link to the Tableau story](https://public.tableau.com/shared/KGC88B4BQ?:display_count=y&:origin=viz_share_link)

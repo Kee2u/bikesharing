@@ -12,7 +12,7 @@ The purpose of this analysis is to determine if a bike sharing program similar t
  - The Starting and Ending location densities are similar which suggests that people return bikes to the same location.
 
 
-[Click here for a link to the Tableau story](https://public.tableau.com/profile/keerthana.jayakumar#!/vizhome/NYCitibikeAnalysis_16175510123870/TopStartingandEndingLocations)
+[Click here for a link to the Tableau story](https://public.tableau.com/shared/KGC88B4BQ?:display_count=y&:origin=viz_share_link)
 
 ## Summary
 The bikesharing program in New York's key users are commuters who subscribe to the service. If many people in Des Moine live within a 10 minute bike ride to their workplace, this program may be worth implementing. If this is the case, a subscription service should definitely be included. 

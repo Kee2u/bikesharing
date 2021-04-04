@@ -22,6 +22,7 @@ The purpose of this analysis is to determine if a bike sharing program similar t
 
 ## Summary
 The bikesharing program in New York's key users are commuters who subscribe to the service. If many people in Des Moines live within a 10 minute bike ride to their workplace, this program may be worth implementing. If this is the case, a subscription service should definitely be included. 
+
 Two additional visualizations that are worth creating are:
  - Average commuting time for the citizens of Des Moine by mode of transportation. Tracking the mode of transportation is important because a 10 minute car ride will be a much longer bike ride.
  - Starting and Ending Location densities plotted with company and residential buildings. This will give insight into where the most popular bike stations are located relative to workplaces and residential areas.
